@@ -15,10 +15,10 @@
 - 選択した銘柄及び移動平均をグラフ表示
 
 ## 使い方
-'''
+~~~
 git clone  
 streamlit run stock_dashboard.py
-'''
+~~~
 
 ## データ
 - IEXのAPIでアプリに使用するデータを取得してCSVファイルとしてdataフォルダに保存
