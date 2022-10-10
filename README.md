@@ -7,31 +7,33 @@
 ## アプリの概要
 株価データを表示するダッシュボード
 ### サイドバー
-銘柄をリスト内から選択　　
-日付をカレンダー機能で変更　　
+銘柄をリスト内から選択
+日付をカレンダー機能で変更
 移動平均の日数をスライドバーで変更
 ### メイン
-統計量は指定した期間内について計算　　
+統計量は指定した期間内について計算
 選択した銘柄及び移動平均をグラフ表示
 
 ## 使い方
-'''git clone　　
-streamlit run stock_dashboard.py'''
+'''
+git clone
+streamlit run stock_dashboard.py
+'''
 
 ## データ
-IEXのAPIでアプリに使用するデータを取得してCSVファイルとしてdataフォルダに保存　　
+IEXのAPIでアプリに使用するデータを取得してCSVファイルとしてdataフォルダに保存
 get_trading_data.py でIEXからデータ取得 (APIのTOKENが必要)
 
 ## 環境
-macOS　　
-Visual Studio Code　　
-python==3.10.6　　
-pandas==1.5.0　　
-pandas-datareader==0.10.0　　
-plotly==5.10.0　　
+macOS
+Visual Studio Code
+python==3.10.6
+pandas==1.5.0
+pandas-datareader==0.10.0
+plotly==5.10.0
 streamlit==1.13.0　　
 
 ## 今後の改善点
-リアルタイムでのデータ取得　　
-デバイスに応じたサイズ変更　　
+リアルタイムでのデータ取得
+デバイスに応じたサイズ変更
 デザインの改善
