@@ -22,7 +22,7 @@ streamlit run stock_dashboard.py
 
 ## データ
 - IEXのAPIでアプリに使用するデータを取得してCSVファイルとしてdataフォルダに保存
-- ```get_trading_data.py``` でIEXからデータ取得 (APIのTOKENが必要)
+- ```get_trading_data.py``` でデータ取得 (APIのTOKENが必要)
 
 ## 環境
 - macOS
