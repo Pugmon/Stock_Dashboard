@@ -34,6 +34,5 @@ streamlit run stock_dashboard.py
 - streamlit==1.13.0　　
 
 ## 今後の改善点
-- リアルタイムでのデータ取得
 - デバイスに応じたサイズ変更
 - デザインの改善
