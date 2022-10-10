@@ -15,5 +15,3 @@
 # 仕様
 
 
-# ライセンス
-BSD License (3-cause BSD License)
