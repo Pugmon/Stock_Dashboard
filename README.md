@@ -10,7 +10,13 @@
 
 
 ## 環境
-
+macOS
+Visual Studio Code
+python==3.10.6
+pandas==1.5.0
+pandas-datareader==0.10.0
+plotly==5.10.0
+streamlit==1.13.0
 
 ## 使い方
 
@@ -18,3 +24,4 @@
 ## 仕様
 
 
+## ライセンス
